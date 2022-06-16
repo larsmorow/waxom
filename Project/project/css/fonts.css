@@ -1,0 +1,16 @@
+@font-face{
+    font-family: 'montserrar light';
+    src: url(../fonts/Montserrat-Light.ttf);
+}
+@font-face{
+    font-family: 'montserrar regular';
+    src: url(../fonts/Montserrat-Regular.ttf);
+}
+@font-face{
+    font-family: 'raleway bold';
+    src: url(../fonts/Raleway-Bold.ttf);
+}
+@font-face{
+    font-family: 'raleway regular';
+    src: url(../fonts/Raleway-Regular.ttf);
+}
